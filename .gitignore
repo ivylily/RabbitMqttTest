@@ -1,0 +1,6 @@
+RabbitMQSender/bin/
+RabbitMQCore/obj/
+RabbitMQCore/bin/
+RabbitMQSender/obj/
+RabbitMQConsoleReceiver/obj/
+RabbitMQConsoleReceiver/bin/
